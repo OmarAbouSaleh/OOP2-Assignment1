@@ -94,3 +94,5 @@ Along with the functionality mentioned above, include the following methods in y
 •	A method that prompts the customer to enter a brand. The program performs a case-insensitive search of appliances that have the same brand, and displays them.
 •	A method that prompts a user to enter a number, and the program then displays that number of random appliances. The appliances can be of any type. 
 •	When the program exits, implement and call a method that takes the appliances stored in the list and persists them back to the appliances.txt file in the proper format.
+
+Omar is gey
